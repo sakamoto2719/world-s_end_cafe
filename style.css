@@ -300,6 +300,7 @@ dd {
 }
 
 button {
+  cursor: pointer;
   margin-bottom: 150px;
   width: 245px;
   border: 4px solid #373325;
