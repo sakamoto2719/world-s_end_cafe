@@ -118,7 +118,6 @@ h2 {
 }
 
 .big-img {
-  background:rgba(255,0,0,0);
   z-index: 10;
   position: absolute;
   top: 30px;
@@ -152,7 +151,6 @@ h2 {
   font-family: 'Lobster', cursive;
   color: white;
   font-size: 58px;
-  background:rgba(255,0,0,0);
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
@@ -194,7 +192,6 @@ h2 {
   font-family: 'Lobster', cursive;
   color: white;
   font-size: 58px;
-  background:rgba(255,0,0,0);
   position: absolute;
   left: 50%;
   top: 50%;
